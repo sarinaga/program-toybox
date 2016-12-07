@@ -1,0 +1,15 @@
+div.parameter{
+  margin : 1em;
+  padding : 0.5em;
+  border : solid 1px black;
+}
+
+div.map{
+  margin : 1em auto;
+  padding : 0.5em;
+  border : solid 1px red;
+
+}
+
+
+
